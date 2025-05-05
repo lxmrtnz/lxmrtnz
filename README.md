@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Penetration Testing & Vulnerability Assessment (Black Box Approach) ]()**
+- **[Penetration Testing & Vulnerability Assessment (Gray Box Approach) ]()**
 
 <hr/>
 
