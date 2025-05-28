@@ -9,6 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Penetration Testing & Vulnerability Assessment (Gray Box Testing) ](https://github.com/lxmrtnz/project-andromeda)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/lxmrtnz/threat-hunting-scenario-tor)**
 
 <hr/>
 
