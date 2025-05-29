@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Penetration Testing & Vulnerability Assessment (Gray Box Testing) ](https://github.com/lxmrtnz/project-andromeda)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/lxmrtnz/threat-hunting-scenario-tor)**
 - **[Incident Response Scenario (Brute Force Attack)](https://github.com/lxmrtnz/brute-force-detection)**
-- **[Incident Response Scenario (PowerShell Suspicious Web Request)]**
+- **[Incident Response Scenario (PowerShell Suspicious Web Request)](https://github.com/lxmrtnz/suspicious-powershell-web-request)**
 <hr/>
 
 ## 🤳 Connect With Me
