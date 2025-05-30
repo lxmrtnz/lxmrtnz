@@ -5,6 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/lxmrtnz/vulnerability-management-program)**
+- **[Portfolio](https://drive.google.com/file/d/1cWqZT9EawMu-JwsQeERhmrfNhkVz8eS2/view?usp=sharing)**
 
 ## 🚨 Threat Hunting and Security Operations
 
